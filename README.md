@@ -1,2 +1,2 @@
 # Movie_Recommendation_System
-A content based movie recommender system using cosine similarity
+The Content-Based Movie Recommender System, developed in Python within a Jupyter Notebook, utilizes cosine similarity to offer personalized movie recommendations based on user preferences and content features such as genre, cast, and plot. This project showcases the effectiveness of content-based recommendation techniques in machine learning, providing users with tailored suggestions for an enhanced movie-watching experience. The repository includes the code and documentation, making it accessible for developers and enthusiasts interested in implementing and understanding this recommendation system.
